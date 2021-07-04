@@ -2,7 +2,7 @@ name: Docker
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, http-request-qs-array, lerna-with-npx, patch-1, slack-bot-token, typeof-undefined ]
 
 env:
   REGISTRY: ghcr.io
